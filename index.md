@@ -1,4 +1,4 @@
-## Welcome to Hongming Liu's GitHub Pages
+## 欢迎来到 Hongming Liu 的 GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Hongming-Liu/Hongming-Liu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
